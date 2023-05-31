@@ -1,2 +1,2 @@
 # html-portfolio
-I am learning web development in the initial stage.
+I created this file while learning the introduction stage of web development.
